@@ -74,8 +74,8 @@
 
 <?php
 
-$p_name = $_POST['f_name'];
-$total = $f_name * 0.3048;
+$foot = $_POST['foot'];
+$total = $foot * 0.3048;
 
 ?>
 
@@ -84,7 +84,7 @@ $total = $f_name * 0.3048;
 
     <div class="result">
         <div class="feet">
-            ฟุต : <?php echo $f_name; ?>
+            ฟุต : <?php echo $foot; ?>
         </div>
     </div>
 
