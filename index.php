@@ -101,7 +101,7 @@
 
     <form action="result.php" method="post">
         <label>กรอกจำนวนฟุต</label>
-        <input type="text" name="p_name" placeholder="เช่น 10">
+        <input type="text" name="f_name" placeholder="เช่น 10">
 
         <input type="submit" value="คำนวณ">
     </form>
